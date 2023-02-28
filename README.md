@@ -1,10 +1,9 @@
 # Taller de LEAN
 
-El demostrador de teoremes LEAN és un assistent de demostració desenvolupat per Leonardo de Moura a Microsoft Research.
-https://leanprover.github.io/
+El demostrador de teoremes [LEAN](https://leanprover.github.io/) és un assistent de demostració desenvolupat per Leonardo de Moura a Microsoft Research.
 
-Per a instal·lar LEAN seguiu les instruccions
-https://leanprover-community.github.io/
+Per a [instal·lar LEAN](https://leanprover-community.github.io/get_started.html) seguiu les instruccions de l'enllaç. 
+En ordenadors d'Apple amb M1 (Apple Silicon) s'han de seguir unes [instruccions específiques](https://leanprover-community.github.io/install/macos.html).
 
 ## Continguts del taller
 - Al fitxer `topologies.lean` demostrem que algunes de les topologies més conegudes són, en efecte, topologies.
